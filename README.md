@@ -1,2 +1,2 @@
-# Alura Stickers
- Treinamento de java do curso Alura
+# Imersão Java
+ Repósitorio para Imersão Java do curso Alura
